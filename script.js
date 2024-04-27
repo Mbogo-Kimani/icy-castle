@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   const typingText = document.querySelector('.typing-text');
-  const text = "We offer a wide range of delicious treats.";
+  const text = "We offer a wide range of delicious treats and games such as Chess and Darts.";
   let index = 0;
 
   function typeWriter() {
